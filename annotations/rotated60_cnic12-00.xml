@@ -1,0 +1,59 @@
+<annotation>
+    <folder>output</folder>
+    <filename>rotated60_cnic12-00.jpg</filename>
+    <path>/content/output/rotated60_cnic12-00.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>283</width>
+        <height>178</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>fname</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>56</xmin>
+            <ymin>26</ymin>
+            <xmax>100</xmax>
+            <ymax>78</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>country</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>104</xmin>
+            <ymin>96</ymin>
+            <xmax>135</xmax>
+            <ymax>133</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>id</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>92</xmin>
+            <ymin>108</ymin>
+            <xmax>143</xmax>
+            <ymax>169</ymax>
+        </bndbox>
+    </object>    <object>
+        <name>dob</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>143</xmin>
+            <ymin>111</ymin>
+            <xmax>173</xmax>
+            <ymax>146</ymax>
+        </bndbox>
+    </object>
+</annotation>
